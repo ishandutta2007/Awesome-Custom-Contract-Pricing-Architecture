@@ -1,6 +1,6 @@
 # Awesome-Custom-Contract-Pricing-Architecture
 
-# Top Custom Contract & Pricing Architecture Ecosystem
+## Top Custom Contract & Pricing Architecture Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on CPQ Configuration, Dynamic Pricing Rules & Quote-to-Revenue Orchestration*  
