@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Contract-Pricing-Architecture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ The table below catalogs premier SaaS CPQ, contract pricing, and quote-to-revenu
 
 For organizations building modular, developer-first, or vendor-neutral quote-to-cash infrastructure, the following open-source projects provide quotation interfaces, consumption metering backends, billing engines, and product-configuration rules. 🛠️
 
-The table is sorted descending by **GitHub Stars**. ⭐
+The table is sorted descending by **GitHub_Stars**. ⭐
 
-| Repository / Project | Stars | Focus Area | Description |
+| Repository / Project | GitHub_Stars | Focus Area | Description |
 |:---|:---|:---|:---|
 | **[getlago/lago](https://github.com/getlago/lago)** ⏱️ | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Metering & Usage-Based Pricing Engine | Open-source metering and consumption-based billing API. Handles complex hybrid pricing, progressive tiers, allowances, and custom enterprise contract metrics. |
 | **[invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)** 🧾 | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Invoicing & Quote Generation | Full-featured open-source invoicing and quotation platform supporting custom quotes, payment gateways, multi-currency pricing, and client approval portals. |
